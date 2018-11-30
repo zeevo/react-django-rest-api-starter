@@ -19,7 +19,7 @@ This project is intended to solve common issues regarding having a React SPA on 
 ![structure](doc/project_structure.png)
 
 ## Usage
-The project is **modular**.  The **ui** and **api** live in two different directories. By default, the **ui** is hosted on port 8080 and automatically proxies **API** requests to port 8000, where the Django app is hosted
+The project is **modular**.  The **UI** and **API** live in two different directories. By default, the **UI** is hosted on port 8080 and automatically proxies **API** requests to port 8000, where the Django app is hosted
 
 1. Start the API
 ```console
