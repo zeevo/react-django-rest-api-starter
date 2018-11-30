@@ -7,6 +7,7 @@ module.exports = {
   output: {
     filename: `${commonPaths.jsFolder}/[name].[hash].js`,
     path: commonPaths.outputPath,
+    publicPath: '/content/',
     chunkFilename: '[name].[chunkhash].js',
   },
   module: {
