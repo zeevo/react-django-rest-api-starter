@@ -13,7 +13,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-build/
+ui/build
 develop-eggs/
 dist/
 downloads/
@@ -163,8 +163,6 @@ yarn.lock*
 package-lock.json
 /build/bundle.js
 /build/index.html
-/build*
-/build/*
 api/content/
 api/staticfiles/
 
